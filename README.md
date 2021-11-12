@@ -1,2 +1,3 @@
-# next.php
-This is a 21st generation php framework based on the MVC pattern
+# Next-php
+A light weight framewaork based on the MVC pattern
+
